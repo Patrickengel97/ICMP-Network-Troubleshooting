@@ -26,12 +26,12 @@ The troubleshooting process includes the following steps:
 
 ## Usage
 
-1. Refer to [network_troubleshooting.md](network_troubleshooting.md) for step-by-step instructions on network troubleshooting using ICMP.
+1. Refer to [Troubleshooting.md](nTroubleshooting.md) for step-by-step instructions on network troubleshooting using ICMP.
 
 ## Conclusion
 
 Network troubleshooting is an essential skill for IT professionals to ensure reliable communication between devices and services. This project provides valuable insights into diagnosing and resolving connectivity issues, enhancing your understanding of network protocols and configurations.
 
 ---
-Created by [Your Name](https://github.com/your-username)
+
 
