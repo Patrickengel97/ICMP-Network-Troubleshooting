@@ -26,7 +26,7 @@ The troubleshooting process includes the following steps:
 
 ## Usage
 
-1. Refer to [Troubleshooting.md](nTroubleshooting.md) for step-by-step instructions on network troubleshooting using ICMP.
+1. Refer to [Troubleshooting.md](Troubleshooting.md) for step-by-step instructions on network troubleshooting using ICMP.
 
 ## Conclusion
 
